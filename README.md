@@ -15,7 +15,7 @@ dimsmary 的一个视频:[【Dimsmary】人肉服务器？纯手动服务器](ht
 
 
 
-#运行方法
+# 运行方法
 如果你下载的golang源码
 ```shell
 go run manual_server.go
