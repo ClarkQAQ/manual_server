@@ -7,7 +7,7 @@
 
 # 灵感来源
 bilibili UP主
-dimsmary 的一个视频:[【Dimsmary】人肉服务器？纯手动服务器](https://www.bilibili.com/video/av44212198 "【Dimsmary】人肉服务器？纯手动服务器")
+dimsmary 的一个视频:[【Dimsmary】人肉服务器？纯手动服务器](https://www.bilibili.com/video/BV18b411Y72o "【Dimsmary】人肉服务器？纯手动服务器")
 一个十分有趣的UP主,但是UP用的是ESP8266然而我
 > **没  有  E  S  P  8  2  6  6**
 
